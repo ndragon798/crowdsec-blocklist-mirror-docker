@@ -3,7 +3,7 @@ https://docs.crowdsec.net/docs/next/bouncers/blocklist-mirror/ in a docker conta
 
 A dockerized version of https://docs.crowdsec.net/docs/next/bouncers/blocklist-mirror/
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/nathaneaston/alertmanager_gotify_bridge-docker.svg)](https://hub.docker.com/repository/docker/nathaneaston/alertmanager_gotify_bridge-docker)
+[![Docker Pulls](https://img.shields.io/docker/pulls/nathaneaston/crowdsec-blocklist-mirror.svg)](https://hub.docker.com/repository/docker/nathaneaston/crowdsec-blocklist-mirror)
 
 Please pull a copy of the config from https://docs.crowdsec.net/docs/next/bouncers/blocklist-mirror/ under the config section
 ```
