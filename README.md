@@ -1,5 +1,4 @@
 # crowdsec-blocklist-mirror-docker
-https://docs.crowdsec.net/docs/next/bouncers/blocklist-mirror/ in a docker container
 
 A dockerized version of https://docs.crowdsec.net/docs/next/bouncers/blocklist-mirror/
 
